@@ -1,0 +1,2 @@
+my name is ruchit ,
+and i am transfer data one file to another file,file name is output.txt
